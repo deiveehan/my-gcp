@@ -50,5 +50,18 @@ Steps:
 
 ![img_7.png](img_7.png)
 
+#### Monitored resource
+Monitored resource type
+```text
+gce_instance
+gce_network
+gce_disk
+gke_container
+networking.googleapis.com/Location
+```
+####
+```text
+compute.googleapis.com/instance/disk/read_bytes_count
+```
 
 [MQL](mql.md)
